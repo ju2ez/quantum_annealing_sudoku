@@ -4,4 +4,6 @@ Solving Sudoku with a Quantum Annealer.
 
 Constraints: 
 
-$\pi $
+```math
+\pi
+```
