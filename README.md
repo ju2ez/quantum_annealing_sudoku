@@ -5,5 +5,5 @@ Solving Sudoku with a Quantum Annealer.
 Constraints: 
 
 ```math
-$\pi$
+ $`a^2+b^2=c^2`$
 ```
