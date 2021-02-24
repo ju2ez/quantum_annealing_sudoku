@@ -5,5 +5,5 @@ Solving Sudoku with a Quantum Annealer.
 Constraints: 
 
 ```math
-\pi
+$\pi$
 ```
