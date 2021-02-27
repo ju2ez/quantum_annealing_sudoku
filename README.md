@@ -26,4 +26,12 @@ Initial numbers given as "hint" cannot be changed:
 ![alt text](https://cdn-images-1.medium.com/max/1043/1*qKrJt94i8LAaOIcRXwQbFw.png "Initial numbers given as hint cannot be changed.")
 
 
+
+
+
+
+
+
+
+
 For more information take a look at the jupyter notebooks. 
