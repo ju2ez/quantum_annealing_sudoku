@@ -1,8 +1,4 @@
 # quantum_annealing_sudoku
 Solving Sudoku with a Quantum Annealer. 
 
-
-Constraints: 
-```math
-a^2+b^2=c^2
-```
+![alt text](https://cdn-images-1.medium.com/max/1116/1*7B27ezktcpRir8T-zMXu_A.png)
