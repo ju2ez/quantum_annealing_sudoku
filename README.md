@@ -4,6 +4,7 @@ Solving Sudoku with a Quantum Annealer.
 
 ##### The Sudoku Game-Board: 
 ![alt text](https://tc3-japan.github.io/DA_tutorial/i/img-two.png "Sudoku Board.")
+
 Credits: https://tc3-japan.github.io/DA_tutorial/tutorial-1-sudoku.html © TC3 K.K (www.tc3.co.jp)
 
 
