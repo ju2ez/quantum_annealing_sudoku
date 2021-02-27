@@ -1,6 +1,7 @@
 # quantum_annealing_sudoku
 Solving Sudoku with a Quantum Annealer. 
 
+Credits: https://tc3-japan.github.io/DA_tutorial/tutorial-1-sudoku.html © TC3 K.K (www.tc3.co.jp)
 
 Constraints: 
 
