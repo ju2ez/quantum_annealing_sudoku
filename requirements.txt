@@ -1,2 +1,5 @@
 dwave-ocean-sdk
+matplotlib
+pandas
+seaborn
 
